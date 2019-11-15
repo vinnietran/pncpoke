@@ -1,6 +1,6 @@
 
 // var animal = $(this).attr("data-name");
-var queryURL = "https://pokeapi.co/api/v2/"
+var queryURL = "https://pokeapi.co/api/v2/pokemon"
 
 $.ajax({
   url: queryURL,
